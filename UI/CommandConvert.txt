@@ -1,0 +1,2 @@
+pyuic5 MainWindow.ui -o Ui.py
+pyuic5 Register.ui -o Register.py

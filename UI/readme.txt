@@ -1,0 +1,1 @@
+khi chuyển MainWindow.ui về Ui.py: cần bổ sung thư viện sau vào file Ui.py "from PyQt5.QtWidgets import *" 
